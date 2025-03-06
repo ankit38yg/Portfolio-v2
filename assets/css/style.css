@@ -767,7 +767,7 @@ main {
 /**
  * #clients 
  */
-/* 
+
 .clients {
   margin-bottom: 15px;
 }
@@ -800,7 +800,7 @@ main {
 
 .clients-item img:hover {
   filter: grayscale(0.15);
-} */
+} 
 
 /*-----------------------------------*\
   #RESUME
